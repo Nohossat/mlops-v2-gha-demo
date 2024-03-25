@@ -7,8 +7,8 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlops
-  postfix: nohossat
+  namespace: mlops-nohossat-ns
+  postfix: ao04
   location: eastus
 
   environment: prod
